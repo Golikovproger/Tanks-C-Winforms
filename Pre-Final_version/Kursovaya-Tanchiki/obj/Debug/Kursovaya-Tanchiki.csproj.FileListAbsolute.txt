@@ -1,0 +1,97 @@
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Properties.Resources.resources
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.csproj.GenerateResource.cache
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.csproj.CoreCompileInputs.cache
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.exe.config
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.exe
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.pdb
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.exe
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.pdb
+C:\Users\enifa\OneDrive\Рабочий стол\Kursovaya-Tanchiki\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.exe.config
+C:\Users\enifa\OneDrive\Рабочий стол\Kursovaya-Tanchiki\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.exe
+C:\Users\enifa\OneDrive\Рабочий стол\Kursovaya-Tanchiki\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.pdb
+C:\Users\enifa\OneDrive\Рабочий стол\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.csproj.AssemblyReference.cache
+C:\Users\enifa\OneDrive\Рабочий стол\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Form1.resources
+C:\Users\enifa\OneDrive\Рабочий стол\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Form2.resources
+C:\Users\enifa\OneDrive\Рабочий стол\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Properties.Resources.resources
+C:\Users\enifa\OneDrive\Рабочий стол\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.csproj.GenerateResource.cache
+C:\Users\enifa\OneDrive\Рабочий стол\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.csproj.CoreCompileInputs.cache
+C:\Users\enifa\OneDrive\Рабочий стол\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.exe
+C:\Users\enifa\OneDrive\Рабочий стол\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.pdb
+D:\Kursovaya-Tanchiki\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.exe.config
+D:\Kursovaya-Tanchiki\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.exe
+D:\Kursovaya-Tanchiki\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.pdb
+D:\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.csprojAssemblyReference.cache
+D:\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Form1.resources
+D:\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Form2.resources
+D:\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Properties.Resources.resources
+D:\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.csproj.GenerateResource.cache
+D:\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.csproj.CoreCompileInputs.cache
+D:\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.exe
+D:\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.pdb
+E:\Kursovaya-Tanchiki\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.exe.config
+E:\Kursovaya-Tanchiki\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.exe
+E:\Kursovaya-Tanchiki\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.pdb
+E:\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.csprojAssemblyReference.cache
+E:\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Form1.resources
+E:\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Form2.resources
+E:\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Properties.Resources.resources
+E:\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.csproj.GenerateResource.cache
+E:\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.csproj.CoreCompileInputs.cache
+E:\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.exe
+E:\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.pdb
+E:\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Form3.resources
+D:\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Form3.resources
+C:\Users\mrsas\Desktop\Kursovaya-Tanchiki\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.exe.config
+C:\Users\mrsas\Desktop\Kursovaya-Tanchiki\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.exe
+C:\Users\mrsas\Desktop\Kursovaya-Tanchiki\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.pdb
+C:\Users\mrsas\Desktop\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.csprojAssemblyReference.cache
+C:\Users\mrsas\Desktop\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Form1.resources
+C:\Users\mrsas\Desktop\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Form2.resources
+C:\Users\mrsas\Desktop\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Form3.resources
+C:\Users\mrsas\Desktop\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Properties.Resources.resources
+C:\Users\mrsas\Desktop\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.csproj.GenerateResource.cache
+C:\Users\mrsas\Desktop\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.csproj.CoreCompileInputs.cache
+C:\Users\mrsas\Desktop\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.exe
+C:\Users\mrsas\Desktop\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.pdb
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Menu.resources
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Game.resources
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Reference.resources
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.AboutProgram.resources
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.exe.manifest
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.application
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.exe.manifest
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.application
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.csprojAssemblyReference.cache
+C:\Users\mrsas\source\repos\SecondVersion\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.exe.config
+C:\Users\mrsas\source\repos\SecondVersion\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.exe.manifest
+C:\Users\mrsas\source\repos\SecondVersion\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.application
+C:\Users\mrsas\source\repos\SecondVersion\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.exe
+C:\Users\mrsas\source\repos\SecondVersion\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.pdb
+C:\Users\mrsas\source\repos\SecondVersion\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.AboutProgram.resources
+C:\Users\mrsas\source\repos\SecondVersion\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Menu.resources
+C:\Users\mrsas\source\repos\SecondVersion\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Game.resources
+C:\Users\mrsas\source\repos\SecondVersion\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Reference.resources
+C:\Users\mrsas\source\repos\SecondVersion\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Properties.Resources.resources
+C:\Users\mrsas\source\repos\SecondVersion\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.csproj.GenerateResource.cache
+C:\Users\mrsas\source\repos\SecondVersion\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.csproj.CoreCompileInputs.cache
+C:\Users\mrsas\source\repos\SecondVersion\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.exe.manifest
+C:\Users\mrsas\source\repos\SecondVersion\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.application
+C:\Users\mrsas\source\repos\SecondVersion\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.exe
+C:\Users\mrsas\source\repos\SecondVersion\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.pdb
+C:\Users\mrsas\Desktop\Курсач\Курсовая Танчики\Projects\SecondVersion\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.exe.config
+C:\Users\mrsas\Desktop\Курсач\Курсовая Танчики\Projects\SecondVersion\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.exe.manifest
+C:\Users\mrsas\Desktop\Курсач\Курсовая Танчики\Projects\SecondVersion\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.application
+C:\Users\mrsas\Desktop\Курсач\Курсовая Танчики\Projects\SecondVersion\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.exe
+C:\Users\mrsas\Desktop\Курсач\Курсовая Танчики\Projects\SecondVersion\Kursovaya-Tanchiki\bin\Debug\Kursovaya-Tanchiki.pdb
+C:\Users\mrsas\Desktop\Курсач\Курсовая Танчики\Projects\SecondVersion\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.csprojAssemblyReference.cache
+C:\Users\mrsas\Desktop\Курсач\Курсовая Танчики\Projects\SecondVersion\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.AboutProgram.resources
+C:\Users\mrsas\Desktop\Курсач\Курсовая Танчики\Projects\SecondVersion\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Menu.resources
+C:\Users\mrsas\Desktop\Курсач\Курсовая Танчики\Projects\SecondVersion\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Game.resources
+C:\Users\mrsas\Desktop\Курсач\Курсовая Танчики\Projects\SecondVersion\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Reference.resources
+C:\Users\mrsas\Desktop\Курсач\Курсовая Танчики\Projects\SecondVersion\Kursovaya-Tanchiki\obj\Debug\Kursovaya_Tanchiki.Properties.Resources.resources
+C:\Users\mrsas\Desktop\Курсач\Курсовая Танчики\Projects\SecondVersion\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.csproj.GenerateResource.cache
+C:\Users\mrsas\Desktop\Курсач\Курсовая Танчики\Projects\SecondVersion\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.csproj.CoreCompileInputs.cache
+C:\Users\mrsas\Desktop\Курсач\Курсовая Танчики\Projects\SecondVersion\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.exe.manifest
+C:\Users\mrsas\Desktop\Курсач\Курсовая Танчики\Projects\SecondVersion\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.application
+C:\Users\mrsas\Desktop\Курсач\Курсовая Танчики\Projects\SecondVersion\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.exe
+C:\Users\mrsas\Desktop\Курсач\Курсовая Танчики\Projects\SecondVersion\Kursovaya-Tanchiki\obj\Debug\Kursovaya-Tanchiki.pdb

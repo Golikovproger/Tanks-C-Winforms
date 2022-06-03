@@ -1,0 +1,16 @@
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\bin\Release\Kursovaya-Tanchiki.exe.config
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\bin\Release\Kursovaya-Tanchiki.exe
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\bin\Release\Kursovaya-Tanchiki.pdb
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Release\Kursovaya_Tanchiki.AboutProgram.resources
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Release\Kursovaya_Tanchiki.Menu.resources
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Release\Kursovaya_Tanchiki.Game.resources
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Release\Kursovaya_Tanchiki.Reference.resources
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Release\Kursovaya_Tanchiki.Properties.Resources.resources
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Release\Kursovaya-Tanchiki.csproj.GenerateResource.cache
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Release\Kursovaya-Tanchiki.csproj.CoreCompileInputs.cache
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Release\Kursovaya-Tanchiki.exe
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Release\Kursovaya-Tanchiki.pdb
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\bin\Release\Kursovaya-Tanchiki.exe.manifest
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\bin\Release\Kursovaya-Tanchiki.application
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Release\Kursovaya-Tanchiki.exe.manifest
+C:\Users\mrsas\source\repos\Kursovaya-Tanchiki\Kursovaya-Tanchiki\obj\Release\Kursovaya-Tanchiki.application
